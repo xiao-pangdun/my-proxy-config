@@ -1,5 +1,6 @@
 # 内容：内容：AI平台-国外
 # 数量：47条
+DOMAIN-KEYWORD,antigravity
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,openai
@@ -8,6 +9,8 @@ DOMAIN,aistudio.google.com
 DOMAIN,api.githubcopilot.com
 DOMAIN,api.groq.com
 DOMAIN,api.together.xyz
+DOMAIN,antigravity-unleash.goog
+DOMAIN,antigravity.google
 DOMAIN,bard.google.com
 DOMAIN,console.groq.com
 DOMAIN,copilot-proxy.githubusercontent.com
